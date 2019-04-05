@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "788684909097",
+    "firebase_url": "https://mp8eduardos.firebaseio.com",
+    "project_id": "mp8eduardos",
+    "storage_bucket": "mp8eduardos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788684909097:android:f91d0ecbddf26df5",
+        "android_client_info": {
+          "package_name": "com.example.mp8eduardosantibanez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788684909097-7f1nsmvde0novplk9amokaensenquelb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mp8eduardosantibanez",
+            "certificate_hash": "af5bdf098ad7e67bd8eb337466e042cb5e2c0656"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNMT2d-SIIMHeQMslY3ymPYkf7zfVEew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788684909097-vhhi7nmtfv1kmkptbaeuk78p134qkgbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
